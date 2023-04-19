@@ -2,8 +2,4 @@
 <item>
     <version>1.0.0.1</version>
     <url>https://grld-ross.github.io/One-App/installer.msi</url>
-    <changelog>
-        - Fixed a bug with the login screen
-        - Added support for new features
-    </changelog>
 </item>
