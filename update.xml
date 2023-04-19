@@ -2,9 +2,5 @@
 <item>
     <version>1.0.0.1</version>
     <url>https://grld-ross.github.io/One-App/installer.msi</url>
-    <changelog>
-    <![CDATA[
-    Fixed bugs and improved performance.
-    ]]>
-    </changelog>
+    <changelog>Fixed bugs and improved performance.</changelog>
 </item>
